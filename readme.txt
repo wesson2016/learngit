@@ -10,3 +10,6 @@ Creating a new branch is quick and simple.
 temperate do nothing...
 
 add 中文
+add 中文
+add 中文
+add 中文
