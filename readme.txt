@@ -13,3 +13,11 @@ add 中文
 add 中文
 add 中文
 add 中文
+<<<<<<< HEAD
+add 中文
+add 中文
+add 中文
+add 中文
+add 中文
+=======
+>>>>>>> 48b5f82e82ebe989106850a13929bab37d0b7058
